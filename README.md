@@ -10,7 +10,7 @@ Interest
 --------
 * Machine Learning, Deep Learning (Pandas, Scikit-learn, Pytorch, Tensorflow)
 * Distributed Processing Massive Real-time Streaming Data
-* Cloud Platform Tool (GCP, AWS)
+* Cloud Platform Tool (GCP/AWS/Confluent)
 
 <!--
 **neolcw/neolcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
